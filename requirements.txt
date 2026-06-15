@@ -1,3 +1,4 @@
-python
-flask
-SQLAlchemy
+Flask
+Flask-SQLAlchemy
+PyMySQL
+gunicorn
